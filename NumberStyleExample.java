@@ -1,4 +1,8 @@
-
+/*
+ * Copyright 2013 Stephen Asbury
+ * Released under the MIT license
+ * http://opensource.org/licenses/MIT
+ */
 import java.util.*;
 import java.text.*;
 
